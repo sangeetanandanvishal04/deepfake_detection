@@ -36,7 +36,6 @@ As part of my undergraduate capstone, I built a DeepFake detection pipeline. It:
 
 * Samples and preprocesses video frames uniformly
 * Extracts frame-level features using a pre-trained ResNeXt‑50 backbone
-* Refines features with residual blocks
 * Models frame sequences with an LSTM
 * Outputs binary predictions (real vs. fake)
 * Reports accuracy, precision, recall, F1-score, and confusion matrices
