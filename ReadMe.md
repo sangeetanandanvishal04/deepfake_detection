@@ -43,7 +43,7 @@ We train and evaluate the same model on two datasets:
 
 ## 🚀 Overview
 
-As part of my undergraduate capstone, I built a DeepFake detection pipeline. It:
+As part of our undergraduate capstone, We built a DeepFake detection pipeline. It:
 
 * Samples and preprocesses video frames uniformly
 * Extracts frame-level features using a pre-trained ResNeXt‑50 backbone
@@ -168,7 +168,3 @@ Pillow
 As a fellow student or researcher, your feedback is welcome! Feel free to open issues or pull requests.
 
 ---
-
-## 📝 License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
