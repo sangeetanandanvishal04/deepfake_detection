@@ -151,7 +151,6 @@ See `requirements.txt`:
 ```
 torch
 torchvision
-torchaudio
 gdown
 matplotlib
 scikit-learn

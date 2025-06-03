@@ -1,6 +1,5 @@
 torch
 torchvision
-torchaudio
 gdown
 matplotlib
 scikit-learn
