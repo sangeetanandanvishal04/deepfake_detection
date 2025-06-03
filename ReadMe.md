@@ -2,10 +2,21 @@
 
 This repository contains code on detecting DeepFakes using a hybrid CNN–LSTM architecture. The goal is to distinguish real from fake videos by extracting spatial features with ResNeXt‑50 and modeling temporal dynamics with LSTM layers.
 
-I train and evaluate the same model on two datasets:
+We train and evaluate the same model on two datasets:
 
 1. **DFDC (DeepFake Detection Challenge)**
 2. **AvLips (LipSync) / LipSync Dataset**
+
+---
+
+---
+
+## 📈 Performance
+
+| Dataset    | Train Accuracy | Test Accuracy | Trained By           |
+|:----------:|:--------------:|:-------------:|:---------------------|
+| **DFDC**   |     96.47 %     |    95.19 %    | Vishal Singh       |
+| **AvLips** |     98.15 %     |    98.88 %    | Dnyanda Rahatal       |
 
 ---
 
